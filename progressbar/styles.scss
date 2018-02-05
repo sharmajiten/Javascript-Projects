@@ -1,6 +1,19 @@
 $probarcolor: #228B22;
+$barwidth: 50%;
+$barheight:50px;
+$baroutercolor: #228B22;
+$borderstyle: solid 2px;
 
 #innerbar{
     background-color: $probarcolor;
+    width:$barwidth;
+    height: $barheight;
+    
 }
 
+#bar{
+    background-color:$baroutercolor;
+    width:$barwidth;
+    height: $barheight;
+    border:$borderstyle;
+}

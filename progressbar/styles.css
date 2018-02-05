@@ -1,4 +1,13 @@
 #innerbar {
   background-color: #228B22;
+  width: 50%;
+  height: 50px;
+}
+
+#bar {
+  background-color: #228B22;
+  width: 50%;
+  height: 50px;
+  border: solid 2px;
 }
 /*# sourceMappingURL=styles.css.map */
