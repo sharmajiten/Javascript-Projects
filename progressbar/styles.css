@@ -1,12 +1,12 @@
 #innerbar {
   background-color: #228B22;
-  width: 50%;
+  width: 1%;
   height: 50px;
 }
 
 #bar {
-  background-color: #228B22;
-  width: 50%;
+  background-color: #ddd;
+  width: 100%;
   height: 50px;
   border: solid 2px;
 }

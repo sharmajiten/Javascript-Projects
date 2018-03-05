@@ -1,5 +1,5 @@
 $probarcolor: #228B22;
-$barwidth: 50%;
+$barwidth: 1%;
 $barheight:50px;
 $baroutercolor: #228B22;
 $borderstyle: solid 2px;
@@ -12,8 +12,8 @@ $borderstyle: solid 2px;
 }
 
 #bar{
-    background-color:$baroutercolor;
-    width:$barwidth;
+    background-color:#ddd;
+    width:100%;
     height: $barheight;
     border:$borderstyle;
 }
